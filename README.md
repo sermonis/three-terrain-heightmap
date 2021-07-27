@@ -14,4 +14,4 @@
 * Use of 3d generated foliage and rocks from a seperate project (Details tbc)
 ![Fancy terrain](https://image.ibb.co/ct5wpd/Screen_Shot_2018_05_28_at_21_22_25.jpg)
 ## Check it out live:
-**https://golddolphinskb-fexcraftian.github.io/three.js-Terrain-Heightmap/**
+**https://sermonis.github.io/three-terrain-heightmap/**
